@@ -1,0 +1,15 @@
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/Classes/olderPeople/olderPeople/bin/Debug/net7.0/olderPeople
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/Classes/olderPeople/olderPeople/bin/Debug/net7.0/olderPeople.deps.json
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/Classes/olderPeople/olderPeople/bin/Debug/net7.0/olderPeople.runtimeconfig.json
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/Classes/olderPeople/olderPeople/bin/Debug/net7.0/olderPeople.dll
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/Classes/olderPeople/olderPeople/bin/Debug/net7.0/olderPeople.pdb
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/Classes/olderPeople/olderPeople/obj/Debug/net7.0/olderPeople.csproj.AssemblyReference.cache
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/Classes/olderPeople/olderPeople/obj/Debug/net7.0/olderPeople.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/Classes/olderPeople/olderPeople/obj/Debug/net7.0/olderPeople.AssemblyInfoInputs.cache
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/Classes/olderPeople/olderPeople/obj/Debug/net7.0/olderPeople.AssemblyInfo.cs
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/Classes/olderPeople/olderPeople/obj/Debug/net7.0/olderPeople.csproj.CoreCompileInputs.cache
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/Classes/olderPeople/olderPeople/obj/Debug/net7.0/olderPeople.dll
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/Classes/olderPeople/olderPeople/obj/Debug/net7.0/refint/olderPeople.dll
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/Classes/olderPeople/olderPeople/obj/Debug/net7.0/olderPeople.pdb
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/Classes/olderPeople/olderPeople/obj/Debug/net7.0/olderPeople.genruntimeconfig.cache
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/Classes/olderPeople/olderPeople/obj/Debug/net7.0/ref/olderPeople.dll

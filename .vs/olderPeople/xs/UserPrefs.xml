@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{B38FF12F-4A6C-4AD7-99F3-4468EB432F58}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="olderPeople/Program.cs">
+    <Files>
+      <File FileName="olderPeople/Program.cs" Line="31" Column="66" />
+      <File FileName="olderPeople/Pessoa.cs" Line="8" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="olderPeople" expanded="True">
+            <Node name="olderPeople">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.olderPeople PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
